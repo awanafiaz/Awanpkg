@@ -4,7 +4,7 @@ Title: Compute Log of Sum of Exponents
 Version: 0.1.0
 Author: Awan
 Maintainer: The package maintainer <aafiaz@uw.edu>
-Description: Calculates Logarithm of Sums of exponents for a given vector.
+Description: Calculates Logarithm of sums of exponents for a given vector.
     Takes only numeric values.
 License: MIT + file LICENSE
 Encoding: UTF-8
